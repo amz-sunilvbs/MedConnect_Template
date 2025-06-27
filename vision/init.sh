@@ -9,8 +9,4 @@ pip install \
   "aiohttp" \
   "nova-act"
 
-export NOVA_ACT_API_KEY=5a0992dc-da7f-420e-911a-cc7c5b23a9ab
-#python agent.py download-files
-#python agent.py dev
 python vision.py dev
-# python novaActSample.py
